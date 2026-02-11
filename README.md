@@ -14,8 +14,6 @@ Building web apps...
 ---
 
 ## > mindset
-```
 while(alive){
-    improve();
-}
-```
+>> improve();
+> }
