@@ -1,13 +1,19 @@
-> whoami
-Syaf
+# > initializing profile...
 
-> stack
-PHP | Laravel | CodeIgniter | MySQL
+User: sapphire
+Role: (loading...)
+Location: Earth
 
-> status
-learning && building
+---
 
-> mindset
+## > current_status
+Learning new things...
+Building web apps...
+~~Fixing bugs~~  Sleep...
+
+---
+
+## > mindset
 while(alive){
    improve();
 }
